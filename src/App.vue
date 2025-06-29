@@ -16,7 +16,7 @@ import ContactSection from './components/ContactSection.vue'
 body {
   margin: 0;
   padding: 0;
-  background-color: #fefefe;
+  background-color:rgb(0, 0, 0), 254, 254, 0);
   scroll-behavior: smooth;
 }
 
